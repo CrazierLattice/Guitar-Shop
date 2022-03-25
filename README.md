@@ -1,4 +1,4 @@
-Guitar Shop using Angular, NodeJS & Express and MongoDB.
+# Guitar Shop using Angular, NodeJS & Express and MongoDB
 
 
 
